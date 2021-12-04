@@ -1,0 +1,3 @@
+import webbrowser 
+while True : '''USe any other method u want '''
+   webbrowser.open("www.google.com")
